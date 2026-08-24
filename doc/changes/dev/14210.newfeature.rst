@@ -1,0 +1,1 @@
+Add :mod:`mne.ragged` for epochs of unequal duration, with :class:`mne.ragged.RaggedEpochs` storing trials at their true durations, per-trial operations that need no common time axis, and explicit alignment via :func:`mne.ragged.landmark_warp` and :func:`mne.ragged.warp_tfr`, by `Sina Esmaeili`_.

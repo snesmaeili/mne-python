@@ -33,6 +33,7 @@ directly from a terminal, see :ref:`python_commands`.
     preprocessing
     events
     sensor_space
+    ragged
     covariance
     mri
     forward
